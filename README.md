@@ -1,1 +1,1 @@
-# 1-Prolog
+Exercitii rezolvate Prolog (PP)
